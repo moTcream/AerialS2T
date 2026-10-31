@@ -4,9 +4,7 @@
 
 ### Motion–View Coupling in Vision-Language-Action Models<br>for Aerial Search-to-Track
 
-Jiaxu Tian<sup>1,&#42;</sup> · Ruibiao Zhu<sup>2,&#42;</sup> · Chaowei Wang<sup>1,&#42;</sup><br>Tingyu Zhang<sup>1</sup> · Jingjun Sun<sup>1</sup> · Hongguang Zhang<sup>3</sup> · Shan Gao<sup>1,†</sup>
-
-<sup>1</sup> Northwestern Polytechnical University &nbsp; <sup>2</sup> Australian National University<br><sup>3</sup> Wuhan University
+Jiaxu Tian<sup>&#42;</sup> · Ruibiao Zhu<sup>&#42;</sup> · Chaowei Wang<sup>&#42;</sup><br>Tingyu Zhang · Jingjun Sun · Hongguang Zhang · Shan Gao<sup>†</sup>
 
 <sup>&#42;</sup> Equal contribution &nbsp; <sup>†</sup> Corresponding author
 
