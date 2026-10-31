@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/moTcream/moTcream.github.io/main/AerialS2T/figures/web/logo-176.webp" width="76" alt="AerialS2T logo">
-
-# AerialS2T
+<h1><img src="https://raw.githubusercontent.com/moTcream/moTcream.github.io/main/AerialS2T/figures/web/logo-176.webp" width="52" height="52" align="absmiddle" alt="AerialS2T logo"> AerialS2T</h1>
 
 ### Motion–View Coupling in Vision-Language-Action Models<br>for Aerial Search-to-Track
 
@@ -12,7 +10,7 @@ Jiaxu Tian<sup>1,&#42;</sup> · Ruibiao Zhu<sup>2,&#42;</sup> · Chaowei Wang<su
 
 <sup>&#42;</sup> Equal contribution &nbsp; <sup>†</sup> Corresponding author
 
-[![Project Page](https://img.shields.io/badge/Project-Page-2F70B4?style=flat&logo=googlechrome&logoColor=white)](https://motcream.github.io/AerialS2T/) [![arXiv coming soon](https://img.shields.io/badge/arXiv-coming_soon-B31B1B?style=flat&logo=arxiv&logoColor=white)](#to-do-list) [![Dataset](https://img.shields.io/badge/Dataset-AerialLIFT--10K-E5A323?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/moTcream/AerialLIFT-10K) [![Model](https://img.shields.io/badge/Model-MoViC-238B87?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/moTcream/MoViC) [![Code coming soon](https://img.shields.io/badge/Code-coming_soon-596775?style=flat&logo=github&logoColor=white)](#to-do-list)
+[![arXiv coming soon](https://img.shields.io/badge/arXiv-coming_soon-B31B1B?style=flat&logo=arxiv&logoColor=white)](#to-do-list) [![Dataset](https://img.shields.io/badge/Dataset-AerialLIFT--10K-E5A323?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/moTcream/AerialLIFT-10K) [![Model](https://img.shields.io/badge/Model-MoViC-238B87?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/moTcream/MoViC) [![Code coming soon](https://img.shields.io/badge/Code-coming_soon-596775?style=flat&logo=github&logoColor=white)](#to-do-list)
 
 [Overview](#overview) · [To-do list](#to-do-list) · [Dataset](#aeriallift-10k) · [Method](#movic) · [Results](#results)
 
@@ -29,8 +27,6 @@ Jiaxu Tian<sup>1,&#42;</sup> · Ruibiao Zhu<sup>2,&#42;</sup> · Chaowei Wang<su
 **AerialS2T** studies language-guided search and tracking of moving targets. A UAV starts without the target in view, receives an instruction describing its appearance and initial location, and must find it before continuing to follow it. Both flight motion and camera pitch are controlled by the policy.
 
 We provide **AerialLIFT-10K**, a dataset of complete search-to-track demonstrations and a closed-loop benchmark, and **MoViC**, a VLA framework that uses target motion forecasts and future camera-view geometry to refine flight and camera actions.
-
-The [project page](https://motcream.github.io/AerialS2T/#scene-3d) includes synchronized flight videos and interactive 3D trajectory replays.
 
 ## To-do list
 
