@@ -2,12 +2,6 @@
 
 <h1><img src="https://raw.githubusercontent.com/moTcream/moTcream.github.io/main/AerialS2T/figures/web/logo-176.webp" width="52" height="52" align="absmiddle" alt="AerialS2T logo"> AerialS2T</h1>
 
-### Motion–View Coupling in Vision-Language-Action Models<br>for Aerial Search-to-Track
-
-Jiaxu Tian<sup>&#42;</sup> · Ruibiao Zhu<sup>&#42;</sup> · Chaowei Wang<sup>&#42;</sup><br>Tingyu Zhang · Jingjun Sun · Hongguang Zhang · Shan Gao<sup>†</sup>
-
-<sup>&#42;</sup> Equal contribution &nbsp; <sup>†</sup> Corresponding author
-
 [![arXiv coming soon](https://img.shields.io/badge/arXiv-coming_soon-B31B1B?style=flat&logo=arxiv&logoColor=white)](#to-do-list) [![Dataset](https://img.shields.io/badge/Dataset-AerialLIFT--10K-E5A323?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/moTcream/AerialLIFT-10K) [![Model](https://img.shields.io/badge/Model-MoViC-238B87?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/moTcream/MoViC) [![Code coming soon](https://img.shields.io/badge/Code-coming_soon-596775?style=flat&logo=github&logoColor=white)](#to-do-list)
 
 [Overview](#overview) · [To-do list](#to-do-list) · [Dataset](#aeriallift-10k) · [Method](#movic) · [Results](#results)
